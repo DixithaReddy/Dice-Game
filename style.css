@@ -17,7 +17,7 @@ h1 {
   margin: 30px;
   font-family: "Great Vibes ", cursive;
   text-shadow: 5px 0 #232931;
-  font-size: 5rem;
+  font-size: 3.5rem;
   color: #0ccfd6;
 }
 
@@ -28,7 +28,7 @@ p {
 }
 
 img {
-  width: 80%;
+  width: 60%;
 }
 .butn {
   background: #ec8b0b;
